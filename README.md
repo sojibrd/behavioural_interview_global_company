@@ -1,6 +1,6 @@
 # behavioural_interview_global_company
 
-big tech মানের কোম্পানির behavioral round-এর প্রস্তুতি: ছয়টা STAR story, ফল সংখ্যায়, একটা অন্যকে শেখানো নিয়ে; তারপর signal-এর ম্যাপ, দুই দৈর্ঘ্য, big tech-এর জোর আর কঠিন প্রশ্ন। `switch_global_company_in_6_month`-এর story-র কাজ দিন ধরে এখানে সরানো (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫) — plan-এ থাকে শুধু ঘর আর লিংক, রোজের ইংরেজি আর mock interview plan-এই। সাথে `behavioural_interview`-এর ২৫টা ডক, এই সাইটেই।
+big tech মানের কোম্পানির behavioral round-এর প্রস্তুতি: ছয়টা STAR story, ফল সংখ্যায়, একটা অন্যকে শেখানো নিয়ে; তারপর signal-এর ম্যাপ, দুই দৈর্ঘ্য, big tech-এর জোর আর কঠিন প্রশ্ন। `switch_in_6_month_global_company`-এর story-র কাজ দিন ধরে এখানে সরানো (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫) — plan-এ থাকে শুধু ঘর আর লিংক, রোজের ইংরেজি আর mock interview plan-এই। সাথে `behavioural_interview`-এর ২৫টা ডক, এই সাইটেই।
 
 এটা তিনটা স্বাধীন পথের একটা — [লোকাল](https://sojibrd.github.io/behavioural_interview_local_company/) আর [রিমোট](https://sojibrd.github.io/behavioural_interview_remote_company/) আলাদা সাইট, প্রতিটা শূন্য থেকে শুরু। তিন পথেই ছয়টা story; পথ বদলালে বদলায় জোর।
 
@@ -46,7 +46,7 @@ big tech মানের কোম্পানির behavioral round-এর প
 
 ### তথ্য বদলানোর ক্রম
 
-`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural-how-many-paths.md`) → `switch_global_company_in_6_month/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural-how-many-paths.md`) → `switch_in_6_month_global_company/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
 
 ### ব্লক ফাইলের ছাঁচ
 
