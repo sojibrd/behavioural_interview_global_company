@@ -46,7 +46,7 @@ big tech মানের কোম্পানির behavioral round-এর প
 
 ### তথ্য বদলানোর ক্রম
 
-`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural-how-many-paths.md`) → `switch_in_6_month_global_company/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural.md`) → `switch_in_6_month_global_company/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
 
 ### ব্লক ফাইলের ছাঁচ
 
